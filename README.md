@@ -8,7 +8,7 @@ In this tutorial we will be diving into more Dart programming concepts and learn
 source Flutter packages. By the end of this module, you should be comfortable using Flutter packages and 
 building repeated widgets.
 
-## Review of Day 1
+## Review Of Day 1
 
 Day 1 of 100 saw me picking back up from a Udemy Course by Angela Yu - "The Complete 2020 Flutter 
 Development Bootcamp with Dart".⁠
